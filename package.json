@@ -39,8 +39,9 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build && gh-pages -d public -b master",
+    "build": "gatsby build",
     "start": "gatsby develop -o",
+    "deploy": "gatsby build && gh-pages -d public -b master",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "reset": "rm -rf .cache/ public/",
