@@ -5,7 +5,6 @@ require('dotenv').config({
 });
 
 module.exports = {
-  pathPrefix: '/reponame',
   siteMetadata: {
     title: config.defaultTitle,
     description: config.defaultDescription,
