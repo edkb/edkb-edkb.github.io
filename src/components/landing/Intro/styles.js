@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import overlayIllustration from 'assets/illustrations/overlay.svg';
+import overlayIllustration from 'assets/illustrations/circuits.svg';
 
 export const Wrapper = styled.div`
   padding-bottom: 4rem;
@@ -58,6 +58,8 @@ export const Thumbnail = styled.div`
   }
 
   img {
-    width: 100%;
+    width: 90%;
+    height: 90%;
+    border-radius: 75px 75px 75px 0px;
   }
 `;
