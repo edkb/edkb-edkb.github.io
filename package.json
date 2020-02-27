@@ -64,9 +64,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:edkb/personal-page.git"
+    "url": "git@github.com:edkb/edkb.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/edkb/personal-page/issues"
+    "url": "https://github.com/edkb/edkb.github.io/issues"
   }
 }
