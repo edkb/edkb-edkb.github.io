@@ -9,13 +9,21 @@ export const Footer = () => (
 			<Details>
 				<h2>Eduardo Binotto</h2>
 				<span>
-					© All rights are reserved | {new Date().getFullYear()} | Made with{' '}
+					© All rights are reserved | {new Date().getFullYear()} | Based on this nice
+					<a
+						href="https://github.com/smakosh/gatsby-portfolio-dev"
+						rel="noopener noreferrer"
+						target="_blank"
+					>
+						portfolio template
+					</a>
+					made with{' '}
 					<span aria-label="love" role="img">
 						💖
 					</span>{' '}
 					by{' '}
 					<a
-						href="https://github.com/edkb"
+						href="https://github.com/smakosh"
 						rel="noopener noreferrer"
 						target="_blank"
 					>
