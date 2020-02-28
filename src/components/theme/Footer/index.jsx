@@ -17,7 +17,15 @@ export const Footer = () => (
 					>
 						template
 					</a>
-					{' '}made with{' '}
+					,{' '}powered by {' '}
+					<a
+						href="https://www.gatsbyjs.org/"
+						rel="noopener noreferrer"
+						target="_blank"
+					>
+						Gatsby
+					</a>
+					{' '} and made with{' '}
 					<span aria-label="love" role="img">
 						💖
 					</span>{' '}

@@ -4,7 +4,9 @@ import Recaptcha from 'react-google-recaptcha'
 import * as Yup from 'yup'
 import { Button, Input } from 'components/common'
 import { recaptcha_key } from 'data/config'
+import contact from 'assets/illustrations/paper-airplanes-flying.jpg'
 import { Error, Center, InputField } from './styles'
+import {Details} from "../styles";
 
 const ContactForm = ({
 	setFieldValue,
@@ -19,6 +21,7 @@ const ContactForm = ({
 		data-netlify="true"
 		data-netlify-recaptcha="true"
 		data-netlify-honeypot="bot-field"
+		bg-image={contact}
 	>
 		<InputField>
 			<Input

@@ -1,8 +1,7 @@
 import styled from 'styled-components';
-import detailsIllustration from 'assets/illustrations/details.svg';
+import detailsIllustration from 'assets/illustrations/tech.jpg';
 
 export const Wrapper = styled.div`
-  background-image: url(${detailsIllustration});
   background-size: contain;
   background-position: left top;
   background-repeat: no-repeat;
@@ -52,6 +51,8 @@ export const Thumbnail = styled.div`
   }
 
   img {
-    width: 100%;
+    width: 90%;
+    object-fit: cover;
+    border-radius: 50px 0px 50px 50px;
   }
 `;
