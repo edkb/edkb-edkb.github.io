@@ -1,6 +1,6 @@
 module.exports = {
   defaultTitle: 'Eduardo K Binotto',
-  logo: './static/favicon/spot.svg',
+  logo: './gastby static/favicon/spot.svg',
   author: 'Eduardo K Binotto',
   url: 'https://www.eduardo.show',
   legalName: 'Eduardo Binotto',
