@@ -1,10 +1,10 @@
 module.exports = {
   defaultTitle: 'Eduardo K Binotto',
-  logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
+  logo: './static/favicon/spot.svg',
   author: 'Eduardo K Binotto',
-  url: 'https://github.com/edkb',
+  url: 'https://www.eduardo.show',
   legalName: 'Eduardo Binotto',
-  defaultDescription: 'I’m Eduardo and I’m a Backend & Devops engineer!',
+  defaultDescription: 'I’m Eduardo and I’m a Backend & IOT engineer!',
   socialLinks: {
     twitter: 'http://www.twitter.com/edkb',
     github: 'https://github.com/edkb',
@@ -13,7 +13,7 @@ module.exports = {
     youtube: 'https://www.youtube.com/user/404',
     google: 'https://plus.google.com/u/0/404',
   },
-  googleAnalyticsID: 'UA-88875900-4',
+  googleAnalyticsID: 'UA-159418900-1',
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   social: {

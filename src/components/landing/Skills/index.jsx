@@ -13,13 +13,13 @@ export const Skills = () => (
       <Details>
         <h1>Hi There!</h1>
         <p>
-          I'm a tech engineer based on Florianópolis, SC. I feel more comfortable when working on projects
-          that involve both hardware and software, usually on the IOT context.
+          I'm a tech engineer based on Florianópolis, SC.
+          I have experience in developing IOT applications, from the data collection from sensors
+          to backend time-series analyses.
         </p>
         <p>
-          I have worked on projects that collected and analyzed data from different sensors, developing the collecting system
-          system (hardware and firmware) and the backend for storage and processing (APIs and databases). Also have some
-          experience with robotics, having developed many animatronics puppets that talk and dance!
+          Also have considerable experience with robotics,
+          having developed more than 50 animatronics puppets that talk and dance!
         </p>
       </Details>
     </SkillsWrapper>
